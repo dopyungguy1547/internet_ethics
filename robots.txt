@@ -1,2 +1,2 @@
-User-agent: *
-Allow:/
+User-agent: *Allow:/
+Sitemap: https://dopyungguy1547.github.io/sitemap.xml
